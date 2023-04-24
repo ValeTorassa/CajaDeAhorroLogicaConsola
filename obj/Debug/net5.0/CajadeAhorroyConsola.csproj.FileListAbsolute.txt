@@ -1,0 +1,16 @@
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.csproj.AssemblyReference.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.AssemblyInfoInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.AssemblyInfo.cs
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.csproj.CoreCompileInputs.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\bin\Debug\net5.0\CajadeAhorroyConsola.exe
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\bin\Debug\net5.0\CajadeAhorroyConsola.deps.json
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\bin\Debug\net5.0\CajadeAhorroyConsola.runtimeconfig.json
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\bin\Debug\net5.0\CajadeAhorroyConsola.runtimeconfig.dev.json
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\bin\Debug\net5.0\CajadeAhorroyConsola.dll
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\bin\Debug\net5.0\CajadeAhorroyConsola.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.dll
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\refint\CajadeAhorroyConsola.dll
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.pdb
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\CajadeAhorroyConsola.genruntimeconfig.cache
+C:\Users\° Vale °\OneDrive\Escritorio\CajadeAhorroyConsola\obj\Debug\net5.0\ref\CajadeAhorroyConsola.dll
